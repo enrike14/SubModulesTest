@@ -1,0 +1,4 @@
+[submodule "enrike14/HS_FE_ODOO"]
+	path = enrike14/HS_FE_ODOO
+	url = git@github.com:enrike14/HS_FE_ODOO.git
+	branch = main
